@@ -1,7 +1,13 @@
 # Given presentations
-Given presentations and resources
+An collection of given presentations and resources to them. I treat GitHub novadays as new professional social network.
 
-## Robolectric v2
-Light talk on GADG at 31/03/15
+## Talks
+### Robolectric v2
+The light talk that presented on GADG at 31/03/15
 
-[Folder with presentation and resources](robolectric-v2)
+[Here is folder with presentation and resources](robolectric-v2)
+
+### Android Template Project
+The barcamp talk that I presented on Droidcon DE
+
+[Here is folder with presenation and script](droidcon-de)
