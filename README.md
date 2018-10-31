@@ -2,6 +2,11 @@
 An collection of given presentations and resources to them. I treat GitHub novadays as new professional social network.
 
 ## Talks
+### Kotlin inline classes
+The talk that I presented on DAUG Amsterdam Oct 20018
+
+[Here is folder with presentation and code example](inline-classes)
+
 ### Robolectric v2
 The light talk that I presented on GADG at 31/03/15
 
