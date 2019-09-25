@@ -3,7 +3,7 @@ A collection of given presentations and resources to them. I treat GitHub nowada
 
 ## Talks
 ### Kotlin inline classes
-The talk that I presented on DAUG Amsterdam Oct 20018
+The talk that I presented on DAUG Amsterdam Oct 2018
 
 [Here is folder with presentation and code example](inline-classes)
 
