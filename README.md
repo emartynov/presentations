@@ -2,6 +2,15 @@
 A collection of given presentations and resources to them. I treat GitHub nowadays as new professional social network.
 
 ## Talks
+
+### Gradle incremental annotation processing
+The talk I gave as:
+* Community talk on Droidcon DE 2019
+* DAUG Aug 2019
+
+[Here is folder with presentation files](incremental-build)
+
+
 ### Kotlin inline classes
 The talk that I presented on DAUG Amsterdam Oct 2018
 
