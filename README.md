@@ -13,6 +13,8 @@ The talk I gave on:
 
 [Here is folder with the presentation files and links](my-path-to-freelance)
 
+---
+
 ### Gradle Again
 
 The talk I gave on the first ever online Dutch Android User Group meetup - Mar 2020
