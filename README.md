@@ -4,14 +4,16 @@ A collection of given presentations and resources to them. I treat GitHub nowada
 ## Talks
 
 ### Gradle Again
-The talk I gave on the first ever online DAUG meetup - Mar 2020
 
-[here is the folder with the presentation files](gradle-again)
+The talk I gave on the first ever online Dutch Android User Group meetup - Mar 2020
+
+[Here is the folder with the presentation files](gradle-again)
 
 ---
 
 ### Android CD
-The talk I gave on CD meetup - Sep 2019
+
+The talk I gave on Continuous Delivery meetup - Sep 2019
 
 [Here is the folder with presentation files](android-cd)
 
@@ -20,14 +22,15 @@ The talk I gave on CD meetup - Sep 2019
 ### Gradle incremental annotation processing
 The talk I gave as:
 * Community talk on Droidcon DE 2019
-* DAUG Aug 2019
+* Dutch Android User Group Aug 2019
 
 [Here is the folder with presentation files](incremental-build)
 
 ---
 
 ### Kotlin inline classes
-The talk that I presented on DAUG Amsterdam - Oct 2018
+
+The talk that I presented on Dutch Android User Group at Amsterdam - Oct 2018
 
 [Here is the folder with presentation and code example](inline-classes)
 
@@ -48,7 +51,8 @@ The barcamp talk that I presented on Droidcon DE 2015
 ----
 
 ### Robolectric v2
-The light talk that I presented on GADG  - Mar 2015
+
+The light talk that I presented on Google Android Dutch Group - Mar 2015
 
 [Here is the folder with presentation and resources](robolectric-v2)
 
