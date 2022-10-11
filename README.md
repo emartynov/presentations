@@ -1,7 +1,17 @@
 # Given presentations
+
 A collection of given presentations and resources to them. I treat GitHub nowadays as a new professional social network.
 
 ## Talks
+
+### My path to freelance
+
+The talk I gave on:
+
+* CocoaHeadsNL meetup - Sep 2022
+* Community talk on Droidcon DE 2022
+
+[Here is folder with the presentation files and links](my-path-to-freelance)
 
 ### Gradle Again
 
@@ -21,6 +31,7 @@ The talk I gave on Continuous Delivery meetup - Sep 2019
 
 ### Gradle incremental annotation processing
 The talk I gave as:
+
 * Community talk on Droidcon DE 2019
 * Dutch Android User Group Aug 2019
 
