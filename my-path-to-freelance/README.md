@@ -10,7 +10,7 @@ employment.
 ## Videos
 
 * [Droidcon DE community talk Aug 2022](https://www.droidcon.com/2022/08/02/path-to-the-freelance/)
-* [CocoaHeadsNL Meetup Sep 2022](https://www.droidcon.com/2022/08/02/path-to-the-freelance/)
+* [CocoaHeadsNL Meetup Sep 2022](https://youtu.be/9PRhlN3W0dc)
 
 ### Notes
 
