@@ -4,6 +4,14 @@ A collection of given presentations and resources to them. I treat GitHub nowada
 
 ## Talks
 
+### Kotlin Script
+
+The talk was given at the DAUG meetup - Jun 2023
+
+[Here is folder with the presentation files](kotlin-script)
+
+---
+
 ### My path to freelance
 
 The talk I gave on:
