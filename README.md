@@ -6,7 +6,10 @@ A collection of given presentations and resources to them. I treat GitHub nowada
 
 ### Kotlin Script
 
-The talk was given at the DAUG meetup - Jun 2023
+The talk was given at:
+
+* The DAUG meetup - Jun 2023
+* Droidcon DE as a community talk - Jul 2023
 
 [Here is folder with the presentation files](kotlin-script)
 
@@ -17,7 +20,7 @@ The talk was given at the DAUG meetup - Jun 2023
 The talk I gave on:
 
 * CocoaHeadsNL meetup - Sep 2022
-* Community talk on Droidcon DE 2022
+* Droidcon DE as a community talk - Jul 2022
 
 [Here is folder with the presentation files and links](my-path-to-freelance)
 
