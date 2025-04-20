@@ -1,8 +1,17 @@
-# Given presentations
+# Given public presentations
 
-A collection of given presentations and resources to them. I treat GitHub nowadays as a new professional social network.
+A collection of presentations and resources given to them. Nowadays, I treat GitHub as a new professional social
+network.
 
 ## Talks
+
+### Android test fixtures
+
+The talk was given at:
+
+* The DAUG meetup - Feb 2025
+
+[Here is folder with presentation files](android-test-fixtures)
 
 ### Kotlin Script
 
