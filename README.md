@@ -11,7 +11,17 @@ The talk was given at:
 
 * The DAUG meetup - Feb 2025
 
-[Here is folder with presentation files](android-test-fixtures)
+[Here is the folder with presentation files](android-test-fixtures)
+
+---
+
+### Kotlin for Java
+
+Talk was given at:
+
+* ABN Java Triangle meeting - Feb 2025
+
+[Here is the folder with presentations](kotlin-for-java)
 
 ---
 
