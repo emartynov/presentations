@@ -13,6 +13,8 @@ The talk was given at:
 
 [Here is folder with presentation files](android-test-fixtures)
 
+---
+
 ### Kotlin Script
 
 The talk was given at:
