@@ -5,6 +5,16 @@ network.
 
 ## Talks
 
+### TestBalloon — Attempt to Lift Your Test Infra
+
+The talk was given at:
+
+* Compose Multiplatform and Testing Innovations meetup at Q42, Rotterdam - Jul 2026
+
+[Here is the folder with presentation files](testballoon)
+
+---
+
 ### Android test fixtures
 
 The talk was given at:
