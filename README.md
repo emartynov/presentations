@@ -5,6 +5,16 @@ network.
 
 ## Talks
 
+### I and my AI
+
+The talk was given at:
+
+* The DAUG meetup - Nov 2026
+
+[Here is the folder with presentation files](i-and-my-ai)
+
+---
+
 ### TestBalloon — Attempt to Lift Your Test Infra
 
 The talk was given at:
